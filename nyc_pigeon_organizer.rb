@@ -12,12 +12,9 @@ def nyc_pigeon_organizer(data)
   pigeon_list
 end
 
-<<<<<<< HEAD
 # double pipe equals "will only complete the assignment if
 # the left side of our operation returns false or nil."
 # https://medium.com/@jaredrayjohnson1/ruby-operators-double-pipe-equals-bfcbe21a7177
-=======
 # double pipe equals "will only complete the assignment if 
 # the left side of our operation returns false or nil."
 # https://medium.com/@jaredrayjohnson1/ruby-operators-double-pipe-equals-bfcbe21a7177
->>>>>>> da4ae109e99eeeec40d22c7e93fd16414edf38a9
